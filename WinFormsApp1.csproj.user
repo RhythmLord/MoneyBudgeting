@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Resources\UI\Forms\FormCreateCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\UI\Forms\FormCreateWallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\UI\Forms\FormTransaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\UI\Screen\ScreenStatistic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Resources\UI\Screen\ScreenDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Resources\UI\Screen\ScreenCategoriesManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Resources\UI\Screen\ScreenWalletsManagement.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

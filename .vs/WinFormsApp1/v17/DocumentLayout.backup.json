@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\dbhandlers\\walletdbhandler\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\dbhandlers\\walletdbhandler\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\controllers\\walletsmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\controllers\\walletsmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\dbhandlers\\walletdbhandler\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\dbhandlers\\walletdbhandler\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\dbhandlers\\categorydbhandler\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\dbhandlers\\categorydbhandler\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\dbhandlers\\categorydbhandler\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\dbhandlers\\categorydbhandler\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\services\\walletservices\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\services\\walletservices\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\services\\walletservices\\iwalletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\services\\walletservices\\iwalletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\services\\categoryservices\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\iappmainscreennavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:iappmainscreennavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\ui\\screen\\screenwalletsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\ui\\screen\\screenwalletsmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\ui\\screen\\screencategoriesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\ui\\screen\\screencategoriesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\ui\\forms\\formcreatewallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\ui\\forms\\formcreatewallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|c:\\users\\haianh\\documents\\github\\winformsapp1\\resources\\ui\\forms\\formcreatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9948FF8E-4BA9-4F16-844F-3651E6618126}|WinFormsApp1.csproj|solutionrelative:resources\\ui\\forms\\formcreatecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\CategoryDBHandler\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Resources\\DBHandlers\\CategoryDBHandler\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\CategoryDBHandler\\ICategoryRepository.cs",
+              "RelativeToolTip": "Resources\\DBHandlers\\CategoryDBHandler\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:11:58.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalletsManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Controllers\\WalletsManagementController.cs",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\WalletsManagementController.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Controllers\\WalletsManagementController.cs",
+              "RelativeToolTip": "Resources\\Controllers\\WalletsManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:08:39.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IWalletService.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Services\\WalletServices\\IWalletService.cs",
+              "RelativeDocumentMoniker": "Resources\\Services\\WalletServices\\IWalletService.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Services\\WalletServices\\IWalletService.cs",
+              "RelativeToolTip": "Resources\\Services\\WalletServices\\IWalletService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:06:52.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Services\\WalletServices\\WalletService.cs",
+              "RelativeDocumentMoniker": "Resources\\Services\\WalletServices\\WalletService.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Services\\WalletServices\\WalletService.cs",
+              "RelativeToolTip": "Resources\\Services\\WalletServices\\WalletService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:02:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Resources\\Services\\CategoryServices\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\Services\\CategoryServices\\CategoryService.cs",
+              "RelativeToolTip": "Resources\\Services\\CategoryServices\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T09:02:27.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\WalletDBHandler\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "Resources\\DBHandlers\\WalletDBHandler\\WalletRepository.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\WalletDBHandler\\WalletRepository.cs",
+              "RelativeToolTip": "Resources\\DBHandlers\\WalletDBHandler\\WalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:55:30.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\WalletDBHandler\\IWalletRepository.cs",
+              "RelativeDocumentMoniker": "Resources\\DBHandlers\\WalletDBHandler\\IWalletRepository.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\WalletDBHandler\\IWalletRepository.cs",
+              "RelativeToolTip": "Resources\\DBHandlers\\WalletDBHandler\\IWalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:54:31.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\CategoryDBHandler\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Resources\\DBHandlers\\CategoryDBHandler\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\DBHandlers\\CategoryDBHandler\\CategoryRepository.cs",
+              "RelativeToolTip": "Resources\\DBHandlers\\CategoryDBHandler\\CategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:52:13.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\AppController.cs",
+              "RelativeDocumentMoniker": "AppController.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\AppController.cs",
+              "RelativeToolTip": "AppController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:50:15.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAppMainScreenNavigator.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\IAppMainScreenNavigator.cs",
+              "RelativeDocumentMoniker": "IAppMainScreenNavigator.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\IAppMainScreenNavigator.cs",
+              "RelativeToolTip": "IAppMainScreenNavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:49:46.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScreenWalletsManagement.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Screen\\ScreenWalletsManagement.cs",
+              "RelativeDocumentMoniker": "Resources\\UI\\Screen\\ScreenWalletsManagement.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Screen\\ScreenWalletsManagement.cs",
+              "RelativeToolTip": "Resources\\UI\\Screen\\ScreenWalletsManagement.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:20:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScreenCategoriesManagement.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Screen\\ScreenCategoriesManagement.cs",
+              "RelativeDocumentMoniker": "Resources\\UI\\Screen\\ScreenCategoriesManagement.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Screen\\ScreenCategoriesManagement.cs",
+              "RelativeToolTip": "Resources\\UI\\Screen\\ScreenCategoriesManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:20:14.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormCreateWallet.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Forms\\FormCreateWallet.cs",
+              "RelativeDocumentMoniker": "Resources\\UI\\Forms\\FormCreateWallet.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Forms\\FormCreateWallet.cs",
+              "RelativeToolTip": "Resources\\UI\\Forms\\FormCreateWallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:20:04.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormCreateCategory.cs",
+              "DocumentMoniker": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Forms\\FormCreateCategory.cs",
+              "RelativeDocumentMoniker": "Resources\\UI\\Forms\\FormCreateCategory.cs",
+              "ToolTip": "C:\\Users\\HaiAnh\\Documents\\GitHub\\WinFormsApp1\\Resources\\UI\\Forms\\FormCreateCategory.cs",
+              "RelativeToolTip": "Resources\\UI\\Forms\\FormCreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T08:19:15.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
